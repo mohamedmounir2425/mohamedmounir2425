@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<!-- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280"> -->
 
 <h3>🚀 About Me</h3> 
 
@@ -20,8 +20,15 @@
 - 👯 I’m looking to collaborate with many developer to work in different projects. 
 <br/>
 	
+<h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohamed.mounir2425@gmail.com)](mailto:mohamed.mounir2425@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/mohamed-mounir-b255a9242/)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01112149090)
+<br/><br/>
+
+<!-- <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px> -->
 <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
@@ -44,7 +51,7 @@
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-013.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
 ![MUI](https://img.shields.io/badge/MUI-013.svg?style=for-the-badge&logo=mui&logoColor=mui) &nbsp;
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 
 
@@ -54,13 +61,6 @@
 
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px> -->
 
-<h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohamed.mounir2425@gmail.com)](mailto:mohamed.mounir2425@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/mohamed-mounir-b255a9242/)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01112149090)
-<br/><br/>
 
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
