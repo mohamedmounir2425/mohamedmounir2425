@@ -14,7 +14,7 @@
 <h2 align="center">🚀 About Me</h2> 
 
 - 🏢 I am about to finish the training in ITI (9 months) in Web & UI Development Track.
-- 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at &nbsp; [Mohamed Mounir](https://mohamed-mounir-portfolio.vercel.app/) &nbsp; to see some of the projects I've worked on.
 - 🌱 I’m currently working on Graduation Project.
 - 👯 I am looking to work in a company with experienced developers to collaborate on various projects. 
 <br/>
