@@ -13,10 +13,10 @@
 
 <h2 align="center">🚀 About Me</h2> 
 
-- 🏢 I am about to finish the training in ITI (9 months) in Web & UI Development Track.
+- ⭐ I Completed the training in ITI (4 months) in Frontend & Cross-Platform Mobile Development track.
+- ⭐ I Completed the training in ITI (9 months) in Web & UI Development track.
 - 👨‍💻 Check out my portfolio at &nbsp; [Mohamed Mounir](https://mohamed-mounir-portfolio.vercel.app/) &nbsp; to see some of the projects I've worked on.
-- 🌱 I’m currently working on Graduation Project.
-- 👯 I am looking to work in a company with experienced developers to collaborate on various projects. 
+- 🌱 I’m currently working on IDSC.
 <br/>
 
 <div align="center">
